@@ -29,3 +29,22 @@ This project demonstrates how to use Three.js to render a Gaussian Splat Mesh an
 ### Install the dependencies:
 
 ```npm install
+```
+```javascript
+function onMouseMove(event) {
+  if (selectedMarker) {
+    mouse.x = (event.clientX / window.innerWidth) * 2 - 1;
+    mouse.y = -(event.clientY / window.innerHeight) * 2 + 1;
+    raycaster.setFromCamera(mouse, camera);
+    const intersects = raycaster.intersectObject(groundPlane);
+    if (intersects.length > 0) {
+      targetPosition.copy(intersects[0].point.sub(offset));
+      selectedMarker.position.copy(targetPosition);
+      selectedMarker.position.y = selectedMarker.userData.initialY; // Keep the initial Y position
+      const textItem = textMeshes.find(item => item.markerMesh === selectedMarker);
+      if (textItem) {
+        positionTextAboveMarker(textItem.textMesh, selectedMarker);
+      }
+    }
+  }
+}```

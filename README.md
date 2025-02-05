@@ -25,3 +25,5 @@ This project demonstrates how to use Three.js to render a Gaussian Splat Mesh an
    ```sh
    git clone https://github.com/cubantonystark/threejs_gsplat_viewer.git
    cd threejs_gsplat_viewer
+
+### Install the dependencies:

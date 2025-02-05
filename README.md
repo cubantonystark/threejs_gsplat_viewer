@@ -39,7 +39,7 @@ And when you're ready to publish your site, run the following command. The resul
 npm run build
 ```
 
-###Acknowledgments
+### Acknowledgments
 This project was inspired by the expertise and contributions of:
 
 Zappar XR

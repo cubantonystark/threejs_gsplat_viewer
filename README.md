@@ -40,7 +40,7 @@ npm run build
 ```
 
 ### Acknowledgments
-This project was inspired by the expertise and contributions of:
+This project was inspired by the expertise and code from:
 
 Zappar XR
 Kevin Kwok (antimatter15)

@@ -50,6 +50,7 @@ npm run build
 ### Acknowledgments
 This project was inspired by the expertise and code from:
 
+[SuperSplat](https://playcanvas.com/supersplat/editor/)
 [Zappar XR](https://github.com/zappar-xr)<br/>
 [Kevin Kwok (antimatter15)](https://github.com/antimatter15)
 

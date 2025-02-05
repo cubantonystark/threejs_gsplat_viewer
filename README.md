@@ -1,7 +1,6 @@
 # Three.js Gaussian Splat Viewer with Text Markers
 
-This project demonstrates how to use Three.js to render a Gaussian Splat Mesh and interactive text markers. The application allows users to add markers with custom text to a 3D scene by double-clicking on the ground plane. The markers are represented as vertical lines, and the text is displayed above each marker. Users can also drag and drop the markers while maintaining their height.
-
+This project demonstrates how to use Three.js to render a Gaussian Splat Mesh and interactive text markers. The application allows users to add markers with custom text to a 3D scene by double-clicking on the ground plane. The markers are represented as vertical lines, and the text is displayed above each marker. Users can also drag and drop the markers while maintaining their height. This project builds upon code from [Zappar](https://github.com/zappar-xr) and [Kevin Kwok (Antimatter15)](https://github.com/antimatter15)<br/>
 ## Features
 
 - **Gaussian Splat Mesh**: Load and display a Gaussian Splat Mesh.

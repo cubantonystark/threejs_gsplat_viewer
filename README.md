@@ -21,30 +21,31 @@ This project demonstrates how to use Three.js to render a Gaussian Splat Mesh an
 
 ### Installation
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/cubantonystark/threejs_gsplat_viewer.git
-   cd threejs_gsplat_viewer
+The project has been set up to use parcel for bundling assets and code. To get started, install the project's dependencies by running the following command:
 
-### Install the dependencies:
-
-```npm install
+```bash
+npm install
 ```
-```javascript
-function onMouseMove(event) {
-  if (selectedMarker) {
-    mouse.x = (event.clientX / window.innerWidth) * 2 - 1;
-    mouse.y = -(event.clientY / window.innerHeight) * 2 + 1;
-    raycaster.setFromCamera(mouse, camera);
-    const intersects = raycaster.intersectObject(groundPlane);
-    if (intersects.length > 0) {
-      targetPosition.copy(intersects[0].point.sub(offset));
-      selectedMarker.position.copy(targetPosition);
-      selectedMarker.position.y = selectedMarker.userData.initialY; // Keep the initial Y position
-      const textItem = textMeshes.find(item => item.markerMesh === selectedMarker);
-      if (textItem) {
-        positionTextAboveMarker(textItem.textMesh, selectedMarker);
-      }
-    }
-  }
-}```
+
+During development, you can use the following command to run a `parcel` server for testing on your computer or a device on your local network:
+
+```bash
+npm run start
+```
+
+And when you're ready to publish your site, run the following command. The resulting `dist` folder can be uploaded for publishing.
+
+```bash
+npm run build
+```
+
+###Acknowledgments
+This project was inspired by the expertise and contributions of:
+
+Zappar XR
+Kevin Kwok (antimatter15)
+Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+### License
+This project is licensed under the MIT License.

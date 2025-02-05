@@ -42,8 +42,8 @@ npm run build
 ### Acknowledgments
 This project was inspired by the expertise and code from:
 
-Zappar XR
-Kevin Kwok (antimatter15)
+[Zappar XR](https://github.com/zappar-xr)
+[Kevin Kwok (antimatter15)](https://github.com/antimatter15)
 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 

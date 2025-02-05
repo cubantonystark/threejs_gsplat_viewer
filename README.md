@@ -42,7 +42,7 @@ npm run build
 ### Acknowledgments
 This project was inspired by the expertise and code from:
 
-[Zappar XR](https://github.com/zappar-xr)
+[Zappar XR](https://github.com/zappar-xr)<br/>
 [Kevin Kwok (antimatter15)](https://github.com/antimatter15)
 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.

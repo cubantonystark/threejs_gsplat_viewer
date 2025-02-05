@@ -37,6 +37,10 @@ And when you're ready to publish your site, run the following command. The resul
 ```bash
 npm run build
 ```
+### Viewing
+
+- ** The Viewer assumes the Gaussian Splat is aligned to the ground plane. In case it is not, you can use [SuperSplat](https://playcanvas.com/supersplat/editor/) to align both osition and rotation. For better results, scale the Gaussina Splat to between 3-5.
+- ** Save the Gaussian Splat as a .splat file. I will include the ability to ingest .ply files and do the conversion in the viewer as time allows.
 
 ### Acknowledgments
 This project was inspired by the expertise and code from:

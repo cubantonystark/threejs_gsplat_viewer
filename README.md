@@ -58,10 +58,10 @@ npm run build
     <td align="center"><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/adding_marker_1.png"></td>
   </tr>
   <tr>
-    <td>Front page</td>
-    <td>Loaded Splat</td>
-    <td>Adding a marker</td>
-    <td>Adding a marker</td>
+    <td align="center" palign="middle">Front page</td>
+    <td align="center" palign="middle">Loaded Splat</td>
+    <td align="center" palign="middle">Adding a marker</td>
+    <td align="center" palign="middle">Adding a marker</td>
   </tr>
   <tr>
     <td align="center"><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/added_marker.png"></td>
@@ -70,10 +70,10 @@ npm run build
     <td align="center"><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/converting_from_.ply_to_.splat.png"></td>
   </tr>
   <tr>
-    <td>Added marker</td>
-    <td>Marker drag and drop functionality</td>
-    <td>Adding more markers</td>
-    <td>Converting from .ply to .splat file</td>
+    <td align="center" palign="middle">Added marker</td>
+    <td align="center" palign="middle">Marker drag and drop functionality</td>
+    <td align="center" palign="middle">Adding more markers</td>
+    <td align="center" palign="middle">Converting from .ply to .splat file</td>
   </tr>
 </tbody>
 </table>

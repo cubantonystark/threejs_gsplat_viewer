@@ -71,7 +71,7 @@ npm run build
   </tr>
   <tr>
     <td align="center" palign="middle">Added marker</td>
-    <td align="center" palign="middle">Marker drag and drop functionality</td>
+    <td align="center" palign="middle">Drag and drop functionality</td>
     <td align="center" palign="middle">Adding more markers</td>
     <td align="center" palign="middle">Converting from .ply to .splat file</td>
   </tr>

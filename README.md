@@ -49,7 +49,7 @@ npm run build
 
 ### Viewer in Action
 
-<img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/load_splat_front_page.png" alt="Front page" height="100px" width="100px" />
+<img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/load_splat_front_page.png" alt="Front page" height="632px" width="349px" />
 ![Loaded Splat](https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/loaded_splat.png "Loaded Splat")
 ![Adding a marker](https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/adding_marker.png "Adding a marker")
 ![Adding a marker](https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/adding_marker_1.png "Adding a marker")

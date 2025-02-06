@@ -50,6 +50,7 @@ npm run build
 ### Viewer in Action
 <center>
 <img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/load_splat_front_page.png" alt="Front page" height="35%" width="35%">
+  Front Page
 <img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/loaded_splat.png" alt="Loaded Splat" height="35%" width="35%">
 <img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/adding_marker.png" alt="Adding a marker" height="35%" width="35%">
 <img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/adding_marker_1.png" alt="Adding a marker" height="35%" width="35%">

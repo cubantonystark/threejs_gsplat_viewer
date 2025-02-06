@@ -58,7 +58,7 @@ npm run build
     <td align="center"><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/adding_marker_1.png"></td>
   </tr>
   <tr>
-    <td align="center" palign="middle">Front page</td>
+    <td align="center" palign="middle">**Front page**</td>
     <td align="center" palign="middle">Loaded Splat</td>
     <td align="center" palign="middle">Adding a marker</td>
     <td align="center" palign="middle">Adding a marker</td>

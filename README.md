@@ -52,7 +52,7 @@ npm run build
 <table bordert="0">
 <tbody>
   <tr>
-    <td align="center"><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/load_splat_front_page.png" height="75%" width="75%"></td>
+    <td align="center"><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/load_splat_front_page.png"></td>
     <td align="center"><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/loaded_splat.png" height="75%" width="75%"></td>
     <td align="center"><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/adding_marker.png" height="75%" width="75%"></td>
     <td align="center"><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/adding_marker_1.png" height="75%" width="75%"></td>

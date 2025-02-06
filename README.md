@@ -52,10 +52,10 @@ npm run build
 <table bordert="0">
 <tbody>
   <tr>
-    <td align="center"><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/load_splat_front_page.png" height="35%" width="35%"></td>
-    <td align="center"><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/loaded_splat.png" height="35%" width="35%"></td>
-    <td align="center"><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/adding_marker.png" height="35%" width="35%"></td>
-    <td align="center"><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/adding_marker_1.png" height="35%" width="35%"></td>
+    <td align="center"><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/load_splat_front_page.png" height="50%" width="50%"></td>
+    <td align="center"><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/loaded_splat.png" height="50%" width="50%"></td>
+    <td align="center"><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/adding_marker.png" height="50%" width="50%"></td>
+    <td align="center"><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/adding_marker_1.png" height="50%" width="50%"></td>
   </tr>
   <tr>
     <td>Front page</td>
@@ -64,10 +64,10 @@ npm run build
     <td>Adding a marker</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/added_marker.png" alt="Added marker" height="35%" width="35%"></td>
-    <td align="center"><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/dragged_and_dropped_marker.png" alt="Marker drag and drop functionality" height="35%" width="35%"></td>
-    <td align="center"><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/additl_marker.png" alt="Adding more markers" height="35%" width="35%"></td>
-    <td align="center"><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/converting_from_.ply_to_.splat.png" alt="Converting from .ply to .splat file" height="35%" width="35%"></td>
+    <td align="center"><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/added_marker.png" alt="Added marker" height="50%" width="50%"></td>
+    <td align="center"><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/dragged_and_dropped_marker.png" alt="Marker drag and drop functionality" height="50%" width="50%"></td>
+    <td align="center"><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/additl_marker.png" alt="Adding more markers" height="50%" width="50%"></td>
+    <td align="center"><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/converting_from_.ply_to_.splat.png" alt="Converting from .ply to .splat file" height="50%" width="50%"></td>
   </tr>
   <tr>
     <td>Added marker</td>

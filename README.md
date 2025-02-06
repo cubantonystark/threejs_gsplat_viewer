@@ -78,6 +78,13 @@ npm run build
 </tbody>
 </table>
 
+### To-do
+
+- **Enable gesture controls for viewing in mobile devices**
+- **Implement automatic for ingesting and converting from .ply to .splat files**
+- **Enable Marker resizing**
+- **Add funtionality to save the markers along the splat files**
+
 ### Acknowledgments
 This project was inspired by the expertise and code from:
 

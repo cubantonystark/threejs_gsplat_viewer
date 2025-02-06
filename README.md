@@ -51,6 +51,9 @@ npm run build
 
 ![Initial front page](https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/load_splat_front_page.png)
 ![Loaded Splat](https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/loaded_splat.png)
+![Adding a marker](https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/adding_marker.png)
+![Adding a marker](https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/adding_marker_1.png)
+
 
 ### Acknowledgments
 This project was inspired by the expertise and code from:

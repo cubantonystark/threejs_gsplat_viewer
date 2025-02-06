@@ -86,7 +86,7 @@ npm run build
 - **Implement automatic conversion from .ply to .splat files before rendering**
 
 ### Acknowledgments
-This project was inspired by the expertise and code from:
+This project was inspired and builds upon code from:
 
 [SuperSplat](https://playcanvas.com/supersplat/editor/)
 [Zappar XR](https://github.com/zappar-xr)<br/>

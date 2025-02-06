@@ -80,10 +80,10 @@ npm run build
 
 ### To-do
 
-- **Enable gesture controls for viewing in mobile devices**
-- **Implement automatic for ingesting and converting from .ply to .splat files**
 - **Enable Marker resizing**
 - **Add funtionality to save the markers along the splat files**
+- **Add gesture controls for viewing in mobile devices**
+- **Implement automatic conversion from .ply to .splat files before rendering**
 
 ### Acknowledgments
 This project was inspired by the expertise and code from:

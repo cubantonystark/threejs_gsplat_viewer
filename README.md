@@ -49,10 +49,7 @@ npm run build
 
 ### Viewer in Action
 
-<table><thead>
-  <tr>
-    <th colspan="4">Screenshots</th>
-  </tr></thead>
+<table bordert="0">
 <tbody>
   <tr>
     <td><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/load_splat_front_page.png" height="35%" width="35%"></td>

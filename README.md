@@ -48,17 +48,38 @@ npm run build
 - **Save the Gaussian Splat as a .splat file. I will include the ability to ingest .ply files and do the conversion in the viewer as time allows.**
 
 ### Viewer in Action
-<center>
-<img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/load_splat_front_page.png" alt="Front page" height="35%" width="35%">
-  Front Page
-<img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/loaded_splat.png" alt="Loaded Splat" height="35%" width="35%">
-<img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/adding_marker.png" alt="Adding a marker" height="35%" width="35%">
-<img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/adding_marker_1.png" alt="Adding a marker" height="35%" width="35%">
-<img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/added_marker.png" alt="Added marker" height="35%" width="35%">
-<img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/dragged_and_dropped_marker.png" alt="Marker drag and drop functionality" height="35%" width="35%">
-<img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/additl_marker.png" alt="Adding more markers" height="35%" width="35%">
-<img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/converting_from_.ply_to_.splat.png" alt="Converting from .ply to .splat file" height="35%" width="35%">
-</center>
+
+<table><thead>
+  <tr>
+    <th colspan="4">Screenshots</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/load_splat_front_page.png" height="35%" width="35%"></td>
+    <td><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/loaded_splat.png" height="35%" width="35%"></td>
+    <td><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/adding_marker.png" height="35%" width="35%"></td>
+    <td><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/adding_marker_1.png" height="35%" width="35%"></td>
+  </tr>
+  <tr>
+    <td>Front page</td>
+    <td>Loaded Splat</td>
+    <td>Adding a marker</td>
+    <td>Adding a marker</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/added_marker.png" alt="Added marker" height="35%" width="35%"></td>
+    <td><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/dragged_and_dropped_marker.png" alt="Marker drag and drop functionality" height="35%" width="35%"></td>
+    <td><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/additl_marker.png" alt="Adding more markers" height="35%" width="35%"></td>
+    <td><img src="https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/converting_from_.ply_to_.splat.png" alt="Converting from .ply to .splat file" height="35%" width="35%"></td>
+  </tr>
+  <tr>
+    <td>Added marker</td>
+    <td>Marker drag and drop functionality</td>
+    <td>Adding more markers</td>
+    <td>Converting from .ply to .splat file</td>
+  </tr>
+</tbody>
+</table>
 
 ### Acknowledgments
 This project was inspired by the expertise and code from:

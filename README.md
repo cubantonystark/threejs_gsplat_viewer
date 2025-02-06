@@ -50,9 +50,14 @@ npm run build
 ### Viewer in Action
 
 ![Initial front page](https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/load_splat_front_page.png)
+<center>Front page</center>
 ![Loaded Splat](https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/loaded_splat.png)
 ![Adding a marker](https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/adding_marker.png)
 ![Adding a marker](https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/adding_marker_1.png)
+![Added marker](https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/added_marker.png)
+![Marker drag and drop functionality](https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/dragged_and_dropped_marker.png)
+![Adding more markers](https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/additl_marker.png)
+![Converting from .ply to .splat file](https://github.com/cubantonystark/threejs_gsplat_viewer/blob/main/screenshots/converting_from_.ply_to_.splat.png)
 
 
 ### Acknowledgments

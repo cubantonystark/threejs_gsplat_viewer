@@ -5,12 +5,14 @@ This project demonstrates how to use Three.js to render a Gaussian Splat Mesh an
 
 - **Gaussian Splat Mesh**: Load and display a Gaussian Splat Mesh.
 - **Interactive Text Markers**: Add, drag, and drop markers with custom text.
+- **Downloadable Markers**: Markers can be downloaded and dropped onto the scene.
 - **Responsive Design**: Adjusts to window resize events.
 - **Styled Input Dialog**: User-friendly input dialog for entering marker text.
 
 - **Keyboard Shortcuts**: 
   - `Esc`: Open file dialog to load a new splat file.
   - `Ctrl+R`: Restarts the viewer and displays the Load file dialog.
+  - `Ctrl+S`: Save all markers on file and dowload. The file is named the same as the splat file for easy identification.
     
 - **Mouse Buttons**:
   - `Double click` to add a marker and name it.
@@ -80,8 +82,8 @@ npm run build
 
 ### To-do
 
+- **[x]Add funtionality to save the markers along the splat files**
 - **Enable marker resizing**
-- **Add funtionality to save the markers along the splat files**
 - **Add gesture controls for viewing in mobile devices**
 - **Implement automatic conversion from .ply to .splat files before rendering**
 

@@ -82,7 +82,7 @@ npm run build
 
 ### To-do
 
-- **[x]Add funtionality to save the markers along the splat files**
+- [x]**Add funtionality to save the markers along the splat files**
 - **Enable marker resizing**
 - **Add gesture controls for viewing in mobile devices**
 - **Implement automatic conversion from .ply to .splat files before rendering**

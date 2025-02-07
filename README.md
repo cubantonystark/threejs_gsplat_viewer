@@ -12,7 +12,7 @@ This project demonstrates how to use Three.js to render a Gaussian Splat Mesh an
 - **Keyboard Shortcuts**: 
   - `Esc`: Open file dialog to load a new splat file.
   - `Ctrl+R`: Restarts the viewer and displays the Load file dialog.
-  - `Ctrl+S`: Save all markers on file and dowload. The file is named the same as the splat file for easy identification.
+  - `Ctrl+S`: Save all markers on file and download. The file is named the same as the splat file for easy identification.
     
 - **Mouse Buttons**:
   - `Double click` to add a marker and name it.

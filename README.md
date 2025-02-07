@@ -80,7 +80,7 @@ npm run build
 </tbody>
 </table>
 
-### To-do
+### To-do / Done
 
 - [x] **Add funtionality to save the markers along the splat files**
 - **Enable marker resizing**

@@ -99,3 +99,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ### License
 This project is licensed under the MIT License.
+
+### Notes
+
+``bash
+mkcert -key-file key.pem -cert-file cert.pem example.com *.example.com
+twistd web -c cert.pem -k key.pem --https=4433 --path .``
+
+

@@ -104,6 +104,7 @@ This project is licensed under the MIT License.
 
 ```bash
 mkcert -key-file key.pem -cert-file cert.pem example.com *.example.com
-twistd web -c cert.pem -k key.pem --https=4433 --path .```
+twistd web -c cert.pem -k key.pem --https=4433 --path .
+```
 
 
